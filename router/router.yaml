@@ -34,14 +34,6 @@ limits:
   max_height: 20
   max_aliases: 3
 
-preview_persisted_queries:
-  enabled: false
-  safelist:
-    enabled: true
-    require_id: false
-apq:
-  enabled: false
-
 ## Authentication and Authorization Module
 authentication:
   router:
