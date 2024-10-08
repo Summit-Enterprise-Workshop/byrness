@@ -9,6 +9,7 @@ extend schema
     ]
   )
 
+# A comment
 type Query {
   users: [User]
   user(id: ID!): User
